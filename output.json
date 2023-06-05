@@ -1,0 +1,42 @@
+[
+    {
+        "ID": 6,
+        "Codigo": 108,
+        "Nome": "Erika",
+        "Valor Compra": "2.500000",
+        "Valor Venda": "3.125000",
+        "Quantidade": 15
+    },
+    {
+        "ID": 9,
+        "Codigo": 105,
+        "Nome": "Fabricio",
+        "Valor Compra": "10.0",
+        "Valor Venda": "12.5",
+        "Quantidade": 3
+    },
+    {
+        "ID": 12,
+        "Codigo": 122,
+        "Nome": "Banana",
+        "Valor Compra": "8.5",
+        "Valor Venda": "10.625",
+        "Quantidade": 13
+    },
+    {
+        "ID": 13,
+        "Codigo": 1,
+        "Nome": "Abacaxiiii",
+        "Valor Compra": "7.5",
+        "Valor Venda": "9.375",
+        "Quantidade": 10
+    },
+    {
+        "ID": 7,
+        "Codigo": 111,
+        "Nome": "Teste222",
+        "Valor Compra": "200.0",
+        "Valor Venda": "250.0",
+        "Quantidade": 50
+    }
+]

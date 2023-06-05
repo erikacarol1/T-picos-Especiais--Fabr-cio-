@@ -1,0 +1,11 @@
+
+SOBRE
+
+Dados do Projeto
+Tema escolhido: “Varejão do João” 
+Objetivo: Desenvolver um sistema para um varejão que seja possível cadastrar produtos (inserir, editar e excluir), acessar relatório de estoque de produtos (todos) e estoque baixo (abaixo de 5 quantidades). Sistema acessado mediante Login, usuário e senha cadastrados (com opção de cadastrar, alterar e excluir usuários).
+
+Desenvolvedora
+Nome: Erika Carolina Duarte Nogueira
+Matrícula: 2840482021007
+
